@@ -1,16 +1,18 @@
-# Project Title
+# JavaFundamentals-AliceAndBob
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
-
-
-
-
-## Objective
-
-#### Part 1 - ...
-* Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
-
+* **Objective** - To create an `NameEvaluator` which is capable of identifying valid-user-names.
+* **Purpose**
+    * To establish familiarity with
+        * Control Flow
+        * Conditionals
+        * `Scanner` object
+* **Description**
+    * You are provided with a java class named `NameEvaluator`
+    * Your objective is to complete the `run` method by following the line-by-line comments describing the algorithm to be implemented
+    * In short, our objective is:
+        * Write a program which prompts the user to input his/her name.
+        * The program should greet users whose names are 'Alice' and 'Bob'.
+    * Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate.
 
 
 
