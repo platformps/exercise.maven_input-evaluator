@@ -1,4 +1,4 @@
-# JavaFundamentals-AliceAndBob
+# Name Evaluator
 
 * **Objective** - To create an `NameEvaluator` which is capable of identifying valid-user-names.
 * **Purpose**
